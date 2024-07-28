@@ -1,11 +1,11 @@
 ﻿{
   "urls": [
     {
-      "url": " https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/box1/simpleBOX.json ",
+      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/box1/simpleBOX.json",
       "name": "🌟精简线路🌟"
     },
     {
-      "url": " https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/pgbox/jsm.json ",
+      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/pgbox/jsm.json",
       "name": "🌟PG精简🌟"
     },
     {
