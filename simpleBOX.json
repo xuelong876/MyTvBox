@@ -7,7 +7,7 @@
     {
       "name": "河南移动",
       "type": 0,
-      "url": "./lib/diyp4m8m.txt",
+      "url": "./live/diyp4m8m.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "logo": "https://gitee.com/xuelong88/logo/raw/master/{name}.png",
@@ -16,7 +16,7 @@
     {
       "name": "河南联通",
       "type": 0,
-      "url": "./lib/liantong.txt",
+      "url": "./live/liantong.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "logo": "https://gitee.com/xuelong88/logo/raw/master/{name}.png",
