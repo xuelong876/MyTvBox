@@ -33,7 +33,7 @@
     },
     {
       "key": "网盘配置",
-      "name": "PG网盘配置置",
+      "name": "❤PG网盘配置置",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -542,7 +542,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "❤天天┃App",
       "type": 3,
       "api": "csp_TTian",
       "jar": "./PGlib/pg.jar",
